@@ -1,0 +1,135 @@
+body {
+  background: linear-gradient(135deg, #f857a6 0%, #ff5858 100%);
+  margin: 0;
+  font-family: 'Lilita One', cursive;
+  min-height: 100vh;
+}
+
+/* .main-header */
+.main-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 0 16px 0;
+  color: #222;
+  background: rgba(255,255,255,0.13);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border-radius: 0 0 18px 18px;
+}
+
+.profile-pic {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 12px;
+  background-color: #fff0f0;
+  box-shadow: 0 4px 12px rgba(248,87,166,0.18);
+  object-fit: cover;
+  border: 2px solid #f857a6;
+}
+
+.main-header h1,
+.site-title {
+  font-size: 2rem;
+  margin: 0 0 10px 0;
+  color: #f857a6;
+  text-shadow: 0 2px 8px rgba(255,88,88,0.10);
+  letter-spacing: 2px;
+  text-align: center;
+  width: 100%;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.1rem;
+  padding: 10px 22px;
+  border-radius: 20px;
+  background: linear-gradient(90deg, #f857a6 0%, #ff5858 100%);
+  box-shadow: 0 2px 8px rgba(248,87,166,0.10);
+  transition: background 0.3s, color 0.3s;
+  display: block;
+  font-weight: bold;
+  border: none;
+}
+
+.main-nav a:hover {
+  background: linear-gradient(90deg, #ff5858 0%, #f857a6 100%);
+  color: #fffbe7;
+}
+
+.main-nav li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  transition: none;
+}
+
+/* About & Experience container */
+.about-experience-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 32px;
+  margin: 40px auto;
+  max-width: 900px;
+}
+
+/* Card styles for About, Experience, Education */
+.about-section, .experience-section, .education-section {
+  background: rgba(255,255,255,0.92);
+  padding: 22px 26px;
+  border-radius: 18px;
+  min-width: 200px;
+  max-width: 320px;
+  box-shadow: 0 4px 16px rgba(248,87,166,0.10);
+  color: #222;
+  border: 1.5px solid #f857a6;
+}
+
+.about-section h2, .experience-section h2, .education-section h2 {
+  text-align: center;
+  margin-bottom: 18px;
+  color: #ff5858;
+  font-size: 1.3rem;
+  letter-spacing: 1px;
+}
+
+.about-section ul, .experience-section ul, .education-section ul {
+  list-style: disc inside;
+  padding: 0;
+  margin: 0;
+  font-size: 1.05rem;
+  color: #333;
+}
+
+.about-section ul li, .experience-section ul li, .education-section ul li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+/* Responsive for mobile */
+@media (max-width: 900px) {
+  .about-experience-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+  .about-section, .experience-section, .education-section {
+    width: 90%;
+    min-width: unset;
+    max-width: unset;
+  }
+}
