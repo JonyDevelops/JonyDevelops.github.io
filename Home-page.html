@@ -1,43 +1,40 @@
-
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Personal Portfolio</title>
-        <link rel="stylesheet" href="style.css" />
-        <!-- Google Fonts-->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
-    </head>
- <body>
-<header class="main-header">
-    <div style="display: flex; align-items: center;">
-        <img src="images/profile-pic.png" alt="Profile Picture" class="profile-pic">
-    </div>
-    <h1>Home</h1>
-    <nav class="main-nav">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="top-nav">
         <ul>
             <li><a href="./Home-page.html">Home</a></li>
             <li><a href="./About-page.html">About</a></li>
-            <li><a href="./Projects-page.html">Projects</a></li>   
+            <li><a href="./Projects-page.html">Projects</a></li>
             <li><a href="./Contact-page.html">Contact</a></li>
         </ul>
     </nav>
-</header>
-<main style="text-align: left; margin-top: 20px;
-    margin-left: 20px; margin-right: 20px;
-    font-family: 'Lilita One', sans-serif; font-size: 20px;
-    size: 20px;">
-    I'm Jony a web developer with a passion for creating dynamic and responsive websites. I have experience in HTML, CSS, and JavaScript, and I'm always eager to learn new technologies and improve my skills. My goal is to build user-friendly web applications that provide a great user experience.
-    <p>Feel free to explore my portfolio and get in touch if you have any questions or opportunities for collaboration!</p>
-    <div class="profile-container">
-        <h2 class="site-title" style="text-align: left;
-        color: black;">My Portfolio</h2>
-        <p>Welcome to my personal portfolio website! Here you can find information about my projects, skills, and how to contact me.</p>
-        <p>Feel free to explore and learn more about my work!</p>
-        <p>Thank you for visiting!</p>
-</main>
+    <section class="hero">
+        <img    src="images/profile-pic.png" 
+                alt="Profile Picture" 
+                class="profile-pic"
+                style="transform: translateX(17px); transition: transform 0.5s;"
+        >
+
+        <div class="hero-content">
+            <h1>Hello!</h1>
+            <p>I'm Jony, a Web Developer who builds clean, responsive sites with HTML, CSS, and JavaScript</p>
+            <p>
+                <a href="./Projects-page.html">See my work</a>
+                &nbsp;|&nbsp;
+                <a href="./Contact-page.html">Contact</a>
+            </p>
+        </div>
+    </section>
 </body>
 </html>
