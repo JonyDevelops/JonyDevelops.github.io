@@ -1,5 +1,5 @@
-# Personal Portfolio Website
-This is a Personal Portfolio Website that showcases an introduction of who I'm and my Projects, Skills, Education, contact.<br/>
+<h1 align="center">Personal Portfolio Website</h1>
+<p align="center">This is a Personal Portfolio Website that showcases an introduction of who I'm and my Projects, Skills, Education, contact.</p> <br/>
 <br/>
 
 <div align="center">
