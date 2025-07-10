@@ -5,18 +5,6 @@
 <a href="https://jonydevelops.github.io/">Website</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues">Bug Reports</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues">Feature Requests</a> • <a href="http://github.com/JonyDevelops/JonyDevelops.github.io/issues">Questions</a>
 </div>
 <br/>
-<br/>
-
-<div align="center">
-<img 
-   width="670" 
-   height="600" 
-   alt="Screenshot 2025-07-10 150356" 
-   src="https://github.com/user-attachments/assets/db92e361-609f-44b7-8bdf-2dfcd55ee7dc"
-   align="center"
-   />
-</div>
-<br/>
 
 ## Technologies used: 
 
