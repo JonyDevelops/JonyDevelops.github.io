@@ -1,6 +1,14 @@
 # Personal Portfolio Website
 This is a Personal Portfolio Website that showcases an introduction of who I'm and my Projects, Skills, Education, contact.<br/>
 <br/>
+## Demo
+https://jonydevelops.github.io/
+<br/>
+<br/>
+<img width="700" height="600" alt="Screenshot 2025-07-10 150356" src="https://github.com/user-attachments/assets/c56b8b96-e28a-40fb-8634-62db1080c1d5" />
+
+<br/>
+
 ## Technologies used: 
 
 - HTML
@@ -36,18 +44,21 @@ This is a Personal Portfolio Website that showcases an introduction of who I'm a
 - GitHub Help Guides
 <br/>
 
-## User Guide (How to visit Website) 
-1. Copy and paste this link: JonyDevelops.github.io
-<br/>
-
 ## Bug Reports
 
-Create an issue on my Github Repository to report bugs.
+Create an [issue](https://github.com/JonyDevelops/JonyDevelops.github.io/issues) on my Github Repository to report bugs.
 <br/>
 <br/>
 
-## Suggestions & Feedback
-Your opinion & Feedback matters please let me know what you would like to be added or changed.
+## Feature Requests 
+Your [opinion & Feedback](https://github.com/JonyDevelops/JonyDevelops.github.io/issues) matters please let me know what you would like to be added or changed.
+<br/>
+<br/>
+## Questions
+
+Ask any [questions](https://github.com/JonyDevelops/JonyDevelops.github.io/issues) you guys have.
+
+
 
 
    
