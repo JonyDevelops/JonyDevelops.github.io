@@ -2,7 +2,7 @@
 <p align="center">This is a Personal Portfolio Website that showcases an introduction of who I'm and my Projects, Skills, Education, contact.</p> <br/>
 
 <div align="center">
-<a href="https://jonydevelops.github.io/">Website</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues">Bug Reports</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues">Feature Requests</a> • <a href="http://github.com/JonyDevelops/JonyDevelops.github.io/issues">Questions</a>
+<a href="https://jonydevelops.github.io/">Website</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues/new">Bug Reports</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues/new">Feature Requests</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues/new">Questions</a>
 </div>
 <br/>
 
