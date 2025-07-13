@@ -8,8 +8,10 @@
 
 <div align="center">
    
-![GitHub contributors](https://img.shields.io/github/contributors/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=Gray&color=yellow) ![GitHub forks](https://img.shields.io/github/forks/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=blue) ![GitHub Repo stars](https://img.shields.io/github/stars/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=blue) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=red) ![GitHub License](https://img.shields.io/github/license/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=green)
-
+[![GitHub contributors](https://img.shields.io/github/contributors/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=Gray&color=yellow)](https://github.com/JonyDevelops/JonyDevelops.github.io/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=blue)](https://github.com/JonyDevelops/JonyDevelops.github.io/forks)
+[![GitHub Repo stars](https://img.shields.io/github/stars/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=blue)](https://github.com/JonyDevelops/JonyDevelops.github.io/stargazers)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=red)](https://github.com/JonyDevelops/JonyDevelops.github.io/issues)
 
 
 
@@ -19,7 +21,6 @@
 </div>
 
 ## Technologies used: 
-
 - HTML
 - CSS
 - Git
