@@ -20,11 +20,14 @@
 
 </div>
 
-## Technologies used: 
-- HTML
-- CSS
-- Git
-- Github
+## Built with
+[![Static Badge](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+<br/>
+[![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+<br/>
+[![Static Badge](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git)](https://git-scm.com/)
+<br/>
+[![Static Badge](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/)
 <br/>
 
 ## HTML & CSS Validator Tests
