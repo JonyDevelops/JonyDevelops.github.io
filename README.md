@@ -4,19 +4,30 @@
 <div align="center">
 <<<<<<< HEAD
 <a href="https://jonydevelops.github.io/">Website</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues">Bug Reports</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues">Feature Requests</a> • <a href="http://github.com/JonyDevelops/JonyDevelops.github.io/issues">Questions</a>
+<a href="https://jonydevelops.github.io/">Website</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues/new">Bug Reports</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues/new">Feature Requests</a> • <a href="https://github.com/JonyDevelops/JonyDevelops.github.io/issues/new">Questions</a>
 </div>
-<br/>
 <br/>
 
 <div align="center">
-<img 
-   width="670" 
-   height="600" 
-   alt="Screenshot 2025-07-10 150356" 
-   src="https://github.com/user-attachments/assets/db92e361-609f-44b7-8bdf-2dfcd55ee7dc"
-   align="center"
-   />
+   
+[![GitHub contributors](https://img.shields.io/github/contributors/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=Gray&color=yellow)](https://github.com/JonyDevelops/JonyDevelops.github.io/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=blue)](https://github.com/JonyDevelops/JonyDevelops.github.io/forks)
+[![GitHub Repo stars](https://img.shields.io/github/stars/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=blue)](https://github.com/JonyDevelops/JonyDevelops.github.io/stargazers)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/JonyDevelops/JonyDevelops.github.io?style=flat-square&labelColor=gray&color=red)](https://github.com/JonyDevelops/JonyDevelops.github.io/issues)
+
+
+
+
+
+
 </div>
+
+## Built with
+[![Static Badge](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+<br/>
+[![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+<br/>
+[![Static Badge](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git)](https://git-scm.com/)
 <br/>
 
 ## Technologies used: 
@@ -53,6 +64,7 @@
 <br/>
 [![Static Badge](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/)
 >>>>>>> 73fcacef34d221cbaeba2750ba2052a833b0c512
+[![Static Badge](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/)
 <br/>
 
 ## HTML & CSS Validator Tests
