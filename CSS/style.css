@@ -83,7 +83,7 @@ a {
     object-fit: cover;
     border: 3px solid var(--accent);
     margin-bottom: 24px;
-    transition: border 0.2s;
+    transform: translateX(15px);
 }
 .hero-content {
     background: var(--hero-bg-dark);
@@ -227,111 +227,6 @@ a {
 }
 
 /* =========================
-   MEDIA QUERIES
-========================= */
-
-/* Tablet styles */
-@media (max-width: 900px) {
-    .hero {
-        flex-direction: column;
-        padding-top: 20px;
-    }
-    .profile-pic {
-        margin-left: 0;
-        margin-top: 24px;
-        margin-bottom: 16px;
-    }
-    .hero-content {
-        max-width: 95vw;
-        margin-left: 0;
-        padding: 28px 12px;
-    }
-    .about-experience-container {
-        flex-direction: column;
-        gap: 18px;
-        padding: 0 8px;
-    }
-}
-
-/* Mobile styles */
-@media (max-width: 600px) {
-    .top-nav ul {
-        gap: 12px;
-        font-size: 1rem;
-    }
-    .hero-content {
-        padding: 14px 4px;
-        max-width: 99vw;
-        font-size: 1rem;
-    }
-    .profile-pic {
-        width: 70px;
-        height: 70px;
-    }
-    .hero-content h1 {
-        font-size: 1.2rem;
-    }
-    .hero-content p,
-    .hero-content a {
-        font-size: 1rem;
-    }
-    .skills-logos img {
-        height: 20px !important;
-    }
-    form input,
-    form textarea,
-    form button {
-        font-size: 1rem !important;
-        padding: 10px !important;
-    }
-    .about-section,
-    .experience-section,
-    .education-section {
-        padding: 16px 8px;
-        min-width: unset;
-    }
-}
-
-/* Smallest screens */
-@media (max-width: 400px) {
-    .top-nav ul {
-        gap: 8px;
-        font-size: 0.9rem;
-    }
-    .hero-content h1 {
-        font-size: 1.1rem;
-    }
-}
-
-/* 4K/large screens */
-@media (min-width: 2000px) {
-    body {
-        font-size: 1.5rem;
-    }
-    .hero {
-        max-width: 1800px;
-        margin: 0 auto;
-        min-height: 60vh;
-    }
-    .hero-content {
-        max-width: 700px;
-        padding: 64px 48px;
-        font-size: 1.3rem;
-    }
-    .profile-pic {
-        width: 220px;
-        height: 220px;
-    }
-    .top-nav ul {
-        gap: 64px;
-        font-size: 2rem;
-    }
-    .skills-logos img {
-        height: 48px !important;
-    }
-}
-
-/* =========================
    HOME PAGE HERO SECTION
 ========================= */
 .home-hero {
@@ -459,4 +354,77 @@ a {
 }
 .projects-list li:last-child p {
     margin: 4px 0 0 0;
+}
+
+/* =========================
+MEDIA QUERIES
+========================= */
+
+/* Mobile Styles */
+
+/* Home Page */
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  
 }
